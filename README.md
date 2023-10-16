@@ -9,12 +9,6 @@ ForceCloseApp is a Python script that allows users to launch an application from
 
 - Python 3.x or later should be installed. If not, download it from [Python's official website](https://www.python.org/downloads/).
 
-### Running the Script
-
-1. Clone the repository or download the script directly.
-   
-   ```bash
-
 How To
 1. Navigate to the project directory.
    cd main.exe
