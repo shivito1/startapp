@@ -14,7 +14,6 @@ ForceCloseApp is a Python script that allows users to launch an application from
 1. Clone the repository or download the script directly.
    
    ```bash
-   git clone https://github.com/your_username/ForceCloseApp.git
 
 How To
 1. Navigate to the project directory.
